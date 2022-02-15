@@ -1,0 +1,7 @@
+Debug = true # test
+
+[PostgresConf]
+  Database = "vktest" # test
+  User = "postgres"
+  Password = "PWD"
+  Host = "122.122.122.122"

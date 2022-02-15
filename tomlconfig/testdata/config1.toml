@@ -1,0 +1,8 @@
+Debug = true
+
+[PostgresConf]
+  Port = 2022
+  Database = "vktest"
+  User = "postgres"
+  Password = "PWD"
+  Host = "122.122.122.122"
